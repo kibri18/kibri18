@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Kibri 👋
 
-<!--
-**kibri18/kibri18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Software Engineer with a passion for finding solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a stack upgrade of Java 8 to 21 & it's other libraries
+- 🌱 I’m currently learning React & guitar
+- 💬 Ask me about computer science, bikes & games
+- 📫 How to reach me: linkedin - www.linkedin.com/in/kibri-ahsan-97397418b/
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Java, Python, C, C++
+- **Frameworks & Libraries:** Spring, React
